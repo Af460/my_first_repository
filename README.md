@@ -1,4 +1,4 @@
-# hello world ! 
+# hello world
 
 # my\_first\_repository
 
